@@ -1,0 +1,13 @@
+# Jupyter stack mínimo
+ipykernel~=6.29
+ipython~=8.25
+jupyter_client~=8.6
+jupyter_core~=5.7
+nest-asyncio~=1.6
+pyzmq~=25.1
+
+numpy~=2.2
+matplotlib~=3.9
+pillow~=10.4
+opencv-python~=4.9
+supervision

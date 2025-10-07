@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# IDE / tooling
+.idea/
+.vscode/
+*.code-workspace
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
