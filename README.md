@@ -3,6 +3,7 @@
 Integrantes:
 
 Calabia, Juan Manuel
+
 Cofré Villalón, Francisco
 
 Detección de un logotipo de Coca-Cola en `tpcoca.ipynb`. Se generan descriptores usando SIFT y se "matchean" características con FLANN. Luego, se proyecta la ubicación del patrón sobre cada imagen objetivo.
