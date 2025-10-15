@@ -10,4 +10,5 @@ numpy~=2.2
 matplotlib~=3.9
 pillow~=10.4
 opencv-python~=4.9
+scikit-learn~=1.7
 supervision
